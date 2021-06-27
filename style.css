@@ -1,0 +1,29 @@
+marquee {
+    background-color: gainsboro;
+}
+
+#maloney {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+}
+
+#news {
+    background-color: cornflowerblue;
+}
+
+#news2 {
+    background-color: cornflowerblue;
+}
